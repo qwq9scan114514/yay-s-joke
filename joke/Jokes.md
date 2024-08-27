@@ -36,7 +36,7 @@
 ![小心我不干了](https://github.com/qwq9scan114514/yay-s-joke/blob/main/joke/%E5%B0%8F%E5%BF%83%E6%88%91%E4%B8%8D%E5%B9%B2%E4%BA%86.png?raw=true)
 
 **我为什么不能挂载**
-![我为什么不能挂载](https://github.com/qwq9scan114514/yay-s-joke/blob/main/joke/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E6%8C%82%E8%BD%BD.png?raw=true)
+![我为什么不能挂载](https://github.com/qwq9scan114514/yay-s-joke/blob/main/joke/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E6%8C%82%E8%BD%BD.jpg?raw=true)
 
 **袭击**
 ![袭击](https://github.com/qwq9scan114514/yay-s-joke/blob/main/joke/%E8%A2%AD%E5%87%BB.png?raw=true)
