@@ -1,5 +1,5 @@
 # 这个网站是专门放图片来展示我们对[yay+](https://github.com/Colin130716/yay-plus)这个项目的逆天发言，也是来看看这个全新小白的那些笑话，当然，您也可以[上传您的照片](https://github.com/qwq9scan114514/yay-s-joke/pulls)来给大家笑一笑。
-**不推荐放乐子**
+## 不推荐放乐子
 
 **更新日志**
 ![更新日志](https://github.com/qwq9scan114514/yay-s-joke/blob/main/joke/Changelog.png?raw=true)
