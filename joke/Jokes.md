@@ -26,6 +26,9 @@
 **又不是不能用**
 ![又不是不能用](https://github.com/qwq9scan114514/yay-s-joke/blob/main/joke/%E5%8F%88%E4%B8%8D%E6%98%AF%E4%B8%8D%E8%83%BD%E7%94%A8.png?raw=true)
 
+**合理**
+![合理](https://github.com/qwq9scan114514/yay-s-joke/blob/main/joke/%E5%90%88%E7%90%86.png?raw=true)
+
 **大火收汁**
 ![大火收汁](https://github.com/qwq9scan114514/yay-s-joke/blob/main/joke/%E5%A4%A7%E7%81%AB%E6%94%B6%E6%B1%81.png?raw=true)
 
