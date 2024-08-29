@@ -41,6 +41,9 @@
 **我为什么不能挂载**
 ![我为什么不能挂载](https://github.com/qwq9scan114514/yay-s-joke/blob/main/joke/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E6%8C%82%E8%BD%BD.jpg?raw=true)
 
+**歌还没放完**
+![歌还没放完](https://github.com/qwq9scan114514/yay-s-joke/blob/main/joke/%E6%AD%8C%E8%BF%98%E6%B2%A1%E6%94%BE%E5%AE%8C.png?raw=true)
+
 **生存还是毁灭**
 ![生存还是毁灭](https://github.com/qwq9scan114514/yay-s-joke/blob/main/joke/%E7%94%9F%E5%AD%98%E8%BF%98%E6%98%AF%E6%AF%81%E7%81%AD.png?raw=true)
 
