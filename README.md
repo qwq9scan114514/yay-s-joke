@@ -9,11 +9,10 @@ yay+s-joke，中文名耶斯笑（感谢``bing``的神金翻译）
 
 ## 不推荐放乐子。  
 
-**注：放乐子可以放在[乐子网站](https://rubbsih.ama.moe)**
-
-**暂时不要使用，不知道什么情况进不去了，目前新增一个临时``Markdown``在joke目录里。[传送门](https://github.com/qwq9scan114514/yay-s-joke/blob/main/joke/Jokes.md)**
+**注：放乐子可以放在[乐子网站](https://rubbsih.ama.moe)（网站已寄）**
 
 **注x2：您可以随时克隆，但请不要随便ps图片**
+
 ## 耶斯笑上传规则：
 
 1. 你知道的，不要宣传/上传色情内容，政治，血腥的东西
