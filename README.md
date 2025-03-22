@@ -1,7 +1,7 @@
 # yay+s-joke
 yay+s-joke，中文名耶斯笑（感谢``bing``的神金翻译）
 
-专门放图片来展示我们对[yay+](https://github.com/Colin130716/yay-plus)这个项目的逆天发言
+不仅限于colin的yay-plus项目
 
 （其实是为了闲的蛋疼弄得github版朋友圈
 
