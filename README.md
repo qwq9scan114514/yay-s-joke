@@ -1,5 +1,5 @@
 # yay+s-joke
-yay+s-joke，中文名耶斯笑（感谢``bing``的神金翻译）
+yay+s-joke，中文名耶斯笑（感谢bing的神金翻译）
 
 不仅限于colin的yay-plus项目
 
